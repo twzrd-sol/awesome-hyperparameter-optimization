@@ -22,3 +22,7 @@ A curated list of awesome open source tools and commercial products for autoML h
  * [Talos](https://github.com/autonomio/talos): Hyperparameter Optimization for TensorFlow, Keras and PyTorch.
  * [Tune](https://docs.ray.io/en/latest/tune.html): Python library for experiment execution and hyperparameter tuning at any scale.
  * [Scikit Optimize](https://github.com/scikit-optimize/scikit-optimize): Simple and efficient library to minimize expensive and noisy black-box functions.
+
+## AI Agent Infrastructure for AutoML Pipelines
+
+ * [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments when orchestrating distributed AutoML/HPO pipelines. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
